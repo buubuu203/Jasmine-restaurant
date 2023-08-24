@@ -24,7 +24,7 @@ const Navbar = () => {
         </li>
 
         <li className='p__opensans'>
-          <a href='#abput'>
+          <a href='#about'>
             About
           </a>
         </li>
